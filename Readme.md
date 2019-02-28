@@ -2,7 +2,7 @@
 > A Courses Management System based on Java.  
 > It allows teacher users and student users to sign up as well as log in.  
 > The teacher can publish new courses and check the courses published by him/herself.  
-> The students can view the available courses, select courses and check the courses chosen by him/herself.  
+> The student can view the available courses, select courses and check the courses chosen by him/herself.  
 > This system will save all information of users and courses in local .txt files.
 
 The **_`main`_** funtion is located in **_`Main`_** class. Run it to use this system. Relevant operations are definitely prompted on GUI.
